@@ -1,16 +1,22 @@
-# gotrav_rental_new
+# Queendrive by DV 🚗
 
-A new Flutter project.
+Aplikasi solusi rental mobil untuk sewa jangka panjang maupun pendek dengan harga terjangkau, kualitas terbaik, dan pelayanan profesional.
 
-## Getting Started
+## 📸 Tampilan Aplikasi
 
-This project is a starting point for a Flutter application.
+![Tampilan Awal](images/tampilan-1.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+## 💡 Deskripsi Project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Queendrive by DV adalah aplikasi penyewaan mobil yang memberikan kemudahan untuk pelanggan dalam menyewa mobil sesuai kebutuhan, baik untuk perjalanan singkat maupun jangka panjang. Dengan berbagai pilihan armada, pelanggan dapat menikmati kualitas kendaraan terbaik dengan harga yang ramah di kantong serta pelayanan customer service yang responsif.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Fitur Unggulan
+
+- Sewa mobil harian, mingguan, bulanan
+- Harga kompetitif dan transparan
+- Booking online cepat dan mudah
+- Beragam pilihan mobil
+- Customer support responsif
+
+## 📂 Struktur Project
+
