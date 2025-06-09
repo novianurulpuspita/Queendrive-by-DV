@@ -18,5 +18,11 @@ Queendrive by DV adalah aplikasi penyewaan mobil yang memberikan kemudahan untuk
 - Beragam pilihan mobil
 - Customer support responsif
 
+## Anggota Kelompok 4
+- Syifa Aulya (224260063)
+- Novia Nurul Puspita (224260022)
+- Dhita Ayu Amalia (224260061)
+  Kelas Reguler A2/SI
+
 
 
